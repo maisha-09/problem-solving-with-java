@@ -19,5 +19,7 @@ public class six {
         System.out.println("The oldest person is " + oldest + " years old.");
         System.out.println("The youngest person is " + youngest + " years old.");
 
+        obj.close();
+
     }
 }
