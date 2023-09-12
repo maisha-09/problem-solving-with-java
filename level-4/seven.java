@@ -14,5 +14,7 @@ public class seven {
         System.out.print(strg2);
 
         System.out.println();
+
+        obj.close();
     }
 }

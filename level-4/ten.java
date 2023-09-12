@@ -18,5 +18,7 @@ public class ten {
 
         System.out.println("Total Marks: " + totalMarks);
         System.out.println("Percentage: " + percentageMark + "%");
+
+        obj.close();
     }
 }

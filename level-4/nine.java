@@ -10,13 +10,11 @@ public class nine {
         System.out.println("Enter the value of b: ");
         int b = obj.nextInt();
 
-        if(a<50&&a<b)
-        {
+        if (a < 50 && a < b) {
             System.out.println("Both conditions are true");
-        }
-        else
-        {
+        } else {
             System.out.println("At least one condition is false");
         }
+        obj.close();
     }
 }

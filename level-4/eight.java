@@ -20,5 +20,7 @@ public class eight {
         } else {
             System.out.println("All Numbers are Different");
         }
+
+        obj.close();
     }
 }

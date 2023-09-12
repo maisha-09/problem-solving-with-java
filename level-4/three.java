@@ -15,5 +15,7 @@ public class three {
         int areaInt = (int) area;
 
         System.out.println("The area of a rectangle is: " + areaInt);
+
+        obj.close();
     }
 }

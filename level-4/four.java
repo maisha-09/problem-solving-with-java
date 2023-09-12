@@ -16,5 +16,7 @@ public class four {
         System.out.println("Hey, my name is " + name + " and my roll number is " + rollNumber
                 + ".My field of interest are " + fieldofInterest + ".");
 
+        obj.close();
+
     }
 }

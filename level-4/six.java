@@ -10,5 +10,7 @@ public class six {
         int square = number * number;
 
         System.out.println("The square of the number: " + square);
+
+        obj.close();
     }
 }

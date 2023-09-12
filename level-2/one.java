@@ -19,5 +19,9 @@ public class one {
 
         String cha = abc.nextLine();
         System.out.println("character: " + cha);
+
+        obj.close();
+        abc.close();
+        username.close();
     }
 }

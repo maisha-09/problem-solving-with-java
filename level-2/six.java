@@ -5,5 +5,6 @@ public class six {
 
         ch2 = 'd' + 3;
         System.out.println(ch2);
+
     }
 }
