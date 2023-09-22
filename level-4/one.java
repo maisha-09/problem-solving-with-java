@@ -13,8 +13,8 @@ public class one {
         int sum = num1 + num2;
         int product = num1 * num2;
 
-        System.out.println("The sum of" + num1 + "and" + num2 + "is: " + sum);
-        System.out.println("The product of" + num1 + "and" + num2 + "is: " + product);
+        System.out.println("The sum of " + num1 + " and " + num2 + " is: " + sum);
+        System.out.println("The product of " + num1 + " and " + num2 + " is: " + product);
         obj.close();
     }
 }
